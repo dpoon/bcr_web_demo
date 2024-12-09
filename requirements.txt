@@ -1,3 +1,4 @@
 ipywidgets>=7
 matplotlib
 pandas>=2
+plotly>=4
